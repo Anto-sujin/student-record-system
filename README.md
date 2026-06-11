@@ -35,8 +35,7 @@ project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/student-record-system.git
-
+git clone https://github.com/Anto-sujin/student-record-system.git
 # Navigate into the folder
 cd student-record-system
 
@@ -109,7 +108,7 @@ Each line = one student record, with fields separated by commas.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Anto-sujin](https://github.com/Anto-sujin/student-record-system.git)
 
 ---
 
