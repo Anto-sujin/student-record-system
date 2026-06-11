@@ -108,7 +108,7 @@ Each line = one student record, with fields separated by commas.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@Anto-sujin](https://github.com/Anto-sujin/student-record-system.git)
+- GitHub: [@Anto-sujin](https://github.com/Anto-sujin)
 
 ---
 
